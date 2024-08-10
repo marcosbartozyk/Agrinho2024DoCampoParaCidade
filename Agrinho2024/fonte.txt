@@ -1,0 +1,7 @@
+SITES FONTE PARA O CÓDIGO
+
+https://www.dio.me/articles/como-colocar-icone-ou-logo-do-seu-site-na-barra-de-endereco-do-navegador
+https://www.freecodecamp.org/portuguese/news/como-usar-o-html-para-abrir-um-link-em-uma-nova-aba/
+https://investidor10.com.br/setores/consumo-nao-ciclico/agropecuaria/agricultura/
+https://pt.stackoverflow.com/questions/332511/como-colocar-bordas-nas-imagens-usando-html5css
+https://demenezes.dev/posts/centralizar-em-css/

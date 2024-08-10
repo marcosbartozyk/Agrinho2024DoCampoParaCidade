@@ -1,0 +1,194 @@
+@media screen and (max-width: 1030px){
+    .dflex {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+        flex-direction: column;
+        font-size: 14px;
+    }
+   
+    .dflex .traco {
+        box-shadow: 100px 0 0 transparent;
+    } 
+
+    #cartoes {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+        flex-direction: column;
+    }
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    background-image: url(img/plantacao-de-trigo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 130px;
+}
+
+main {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+section {
+    margin-bottom: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.158);
+    border-radius: 20px;
+}
+
+article {
+    border-radius: 15px;
+    background-color: white;
+    padding: 15px;
+    margin: 10px 0;
+}
+
+footer {
+    background: linear-gradient(rgba(7, 87, 0, 0.904), #051f00);
+    color: white;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 20px;
+    bottom: 0;
+}
+
+.dflex{
+    display: flex;
+}
+
+#subtitulo{
+    text-align: center;
+    color: #4CAF50;
+}
+
+.espaco-div{
+    padding-left: 4%;
+    padding: 4%;
+}
+
+#titulo {
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 3%;
+}
+
+.scrollReveal-card {
+    visibility: hidden;
+}
+
+.div-card{
+    box-sizing: border-box;
+    border: 1px solid;
+    border-color: rgb(197, 197, 197);
+    border-radius: 3%;
+    padding-bottom: 4%;
+}
+
+.texto-card {
+    text-align: left;
+    padding: 4%;
+}
+
+.texto-card h2 {
+    font-size: 18px;
+}
+
+section article a {
+    display: flex;
+    place-items: left;
+    padding-left: 4%;
+    text-decoration: none;
+}
+
+.img-card{
+    border-radius: 10%;
+}
+
+.aling-items {
+    display: flex;
+    place-items: center;
+    justify-content: space-around;
+}
+
+.styletext {
+    padding-top: 1%;
+    width: 99%;
+    text-align: justify;
+}
+
+#img{
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    border: 1px solid transparent;
+    background: linear-gradient(to left, black, transparent) border-box;
+}
+
+#img2{
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    border: 1px solid transparent;
+    background: linear-gradient(to right, black, transparent) border-box;
+}
+
+#img-h{
+    width: 75%;
+    height: 100%;
+    border-radius: 100%;
+    border: 1px solid transparent;
+    background: linear-gradient(to left, black, transparent) border-box;
+}
+
+#img2-h{
+    width: 75%;
+    height: 100%;
+    border-radius: 100%;
+    border: 1px solid transparent;
+    background: linear-gradient(to right, black, transparent) border-box;
+}
+
+.scrollReveal-img {
+    visibility: hidden;
+}
+
+.traco {
+    box-shadow: -3px 0 0 rgb(192, 192, 192);
+    border-radius: 0;
+}
+
+#cartoes{
+    display: flex;
+    padding-left: 10%;
+}
+
+#rgb-red {
+    color: red;
+    font-weight: bold;
+}
+
+#rgb-green {
+    color: green;
+    font-weight: bold;
+}
+
+#rgb-blue {
+    color: blue;
+    font-weight: bold;
+}
