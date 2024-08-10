@@ -1,4 +1,10 @@
 # Agrinho2024DoCampoParaCidade
+
+Entender pontos fantasticos na sociedade.
+
+Conheça várias informações apresentadas no site destacado.
+
+
 Estrutura do Site:
 
 Cabeçalho Principal:
